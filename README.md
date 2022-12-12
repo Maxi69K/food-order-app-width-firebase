@@ -1,8 +1,20 @@
+# food-order-app-width-firebase
+
+Project done using React.
+
+### `food-order-app-width-firebase` [Live Demo](https://food-order-app-maxi.netlify.app) :point_left: just do a CTRL+click (to open :link: in a new tab)
+
+<div align="center">
+<img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="myoctocat" width="200">
+</div>
+
+<div align="center">
+<a href="https://webdizajnmaxi.eu.org">By Maxi</a>
+</div>
+
 # Getting Started with Create React App
 
-### `food-order-app` [Live Demo](https://food-order-app-maxi.netlify.app)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://food-order-app-width-firebase.netlify.app).
 
 ## Available Scripts
 
