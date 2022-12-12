@@ -2,7 +2,7 @@
 
 Project done using React.
 
-### `food-order-app-width-firebase` [Live Demo](https://food-order-app-maxi.netlify.app) :point_left: just do a CTRL+click (to open :link: in a new tab)
+### `food-order-app-width-firebase` [Live Demo](https://food-order-app-width-firebase.netlify.app) :point_left: just do a CTRL+click (to open :link: in a new tab)
 
 <div align="center">
 <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="myoctocat" width="200">
